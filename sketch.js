@@ -12,7 +12,7 @@ function draw() {
     }
     background(0);
     translate(width/2, height/2);
-    stroke(255, 5);
+    stroke(255, 10);
     noFill();
     beginShape();
     vertex(0, 0);
